@@ -6,7 +6,7 @@ int main()
 {
   char com;
   int r;
-  //srand(3);
+  
   srand(time(NULL));
   
   printf("Please choose: rock (r) - paper (p) - scissors (s)");
